@@ -1,0 +1,2 @@
+autoprefixer-cli style.css style.prefixed.css
+cli *.html
